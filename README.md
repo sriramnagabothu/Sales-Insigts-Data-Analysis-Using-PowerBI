@@ -1,4 +1,4 @@
-# Sales Insight-Data-Analysis Using PowerBI(Interactive Dashboard creation using MS Excel)
+# Sales Insight-Data-Analysis Using PowerBI(Interactive Dashboard creation)
 ## Project Objective
 The objective of this project is to design a dynamic Power BI dashboard to track key sales metrics (Sales, Profit, and Quantity) across four regions (Central, East, South, and West).<br>The dashboard allows users to:<br>
 •	Filter by year and dynamically switch between Sales, Profit, and Quantity.<br>
